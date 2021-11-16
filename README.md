@@ -1,5 +1,7 @@
 ### sk_extend
 
+Author: Brian Craft
+
 Includes an implementation of:
 * `MeanCenteredScaler`, 
 * `NaiveClassifier`
