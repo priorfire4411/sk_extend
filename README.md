@@ -1,5 +1,7 @@
 ### sk_extend
 
+Updates to the readme.
+
 Author: Brian Craft
 
 Includes an implementation of:
