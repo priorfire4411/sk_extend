@@ -7,6 +7,7 @@ class MeanCenteredScaler(BaseEstimator, TransformerMixin):
     '''
     
     def __init__(self, **fit_params):
+        # added a comment to make this way better
         super().__init__(**fit_params)
     
     def fit(self, X):
