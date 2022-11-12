@@ -1,10 +1,9 @@
 from sklearn.base import TransformerMixin, BaseEstimator
 
 class MeanCenteredScaler(BaseEstimator, TransformerMixin):
-
-    '''
-    author brian craft
-    '''
+    """
+    Update the comments.
+    """
     
     def __init__(self, **fit_params):
         # added a comment to make this way better
