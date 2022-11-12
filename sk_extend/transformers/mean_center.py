@@ -3,6 +3,7 @@ from sklearn.base import TransformerMixin, BaseEstimator
 class MeanCenteredScaler(BaseEstimator, TransformerMixin):
     """
     Update the comments.
+    added comment from new branch
     """
     
     def __init__(self, **fit_params):
