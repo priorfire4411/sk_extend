@@ -41,6 +41,3 @@ class MeanCenteredScaler(BaseEstimator, TransformerMixin):
             Transformed array.
         '''
         return X - self.means
-
-    def printer(self):
-        print('some function without coverage.')
